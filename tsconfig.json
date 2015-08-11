@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "commonjs"
+    },
+    "files": [
+        "main.ts",
+        "node_modules/ts2dart/node_modules/typescript/bin/typescript.d.ts"
+    ]
+}
+
